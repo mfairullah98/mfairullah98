@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Mohammad Fairullah Ibrahim 👋
 
-<!--
-**mfairullah98/mfairullah98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Data Analyst | SQL | Python | Power BI | GIS**
 
-Here are some ideas to get you started:
+I'm transitioning from **3 years of professional geospatial and environmental data analysis** into Data Analytics, building projects using **Excel, Python, SQL Server, and Power BI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 📍 Kuantan, Malaysia
+- 🎓 B.Sc. Marine Science & Technology (CGPA 3.77)
+- 🌱 Currently learning AWS re/Start
+- 📊 Interested in Data Analytics, Business Intelligence and Environmental Analytics
+
+## Technical Skills
+
+| Area | Tools |
+|------|------|
+| Data Analysis | Excel, Python, Pandas |
+| Database | SQL Server |
+| Visualisation | Power BI |
+| GIS | ArcGIS, QGIS |
+| Programming | Python |
+
+## Featured Projects
+
+### Retail Sales Performance Analysis
+
+End-to-end analytics project using:
+
+- Excel
+- Python
+- SQL Server
+- Power BI
+
+### Python Bootcamp
+
+FastAPI, backend development and Python fundamentals.
+
+## Current Learning
+
+- AWS re/Start
+- Data Analytics Portfolio Development
+
+## Contact
+
+- LinkedIn: *(add your LinkedIn)*
+- Email: **mfairullah98@gmail.com**
