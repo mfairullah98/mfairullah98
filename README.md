@@ -16,7 +16,7 @@ I'm transitioning from **3 years of professional geospatial and environmental da
 | Area | Tools |
 |------|------|
 | Data Analysis | Excel, Python, Pandas |
-| Database | SQL Server |
+| Database | SQL Server, MongoDB |
 | Visualisation | Power BI |
 | GIS | ArcGIS, QGIS |
 | Programming | Python |
@@ -34,14 +34,14 @@ End-to-end analytics project using:
 
 ### Python Bootcamp
 
-FastAPI, backend development and Python fundamentals.
+FastAPI, database, backend development and Python fundamentals.
 
 ## Current Learning
 
-- AWS re/Start
-- Data Analytics Portfolio Development
+- AWS re/Start from Forward College
+- Big Data Analytics from PHCDC
 
 ## Contact
 
-- LinkedIn: *(add your LinkedIn)*
+- LinkedIn: *[Click here to go to linkedin](https://www.linkedin.com/in/mohammadfairullah/)*
 - Email: **mfairullah98@gmail.com**
